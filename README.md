@@ -32,7 +32,7 @@
 [@gloscode]: https://twitter.com/gloscode
 [Visual Studio Code]: https:/vscode.dev
 [Replit]: https://replit.com/@gloscode
-[Instagram]: https://instagram.com/gloscode
+[Instagram]: https://instagram.com/glos_code/
 [Youtube]: https://youtube.com/gloscode
 [Javascript]: https://en.wikipedia.org/wiki/JavaScript
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
