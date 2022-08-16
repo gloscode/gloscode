@@ -27,7 +27,7 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" alt="javascript">][Javascript] &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" alt="python">][Python] &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" alt="cpp">][C++]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" alt="cpp">][C++] &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" alt="react">][React]
 
 [@gloscode]: https://twitter.com/glos_code
