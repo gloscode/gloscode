@@ -29,7 +29,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" alt="python">][Python] &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" alt="cpp">][C++]
 
-[@gloscode]: https://twitter.com/gloscode
+[@gloscode]: https://twitter.com/glos_code
 [Visual Studio Code]: https:/vscode.dev
 [Replit]: https://replit.com/@gloscode
 [Instagram]: https://instagram.com/glos_code/
