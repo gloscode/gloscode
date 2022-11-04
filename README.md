@@ -16,7 +16,6 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="40" alt="replit">][Replit] &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="40" alt="twitter">][@gloscode] &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40" alt="instagram">][Instagram] &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40" alt="youtube">][Youtube]
 
 &nbsp;
@@ -36,7 +35,6 @@
 [@gloscode]: https://twitter.com/glos_code
 [Visual Studio Code]: https://vscode.dev
 [Replit]: https://replit.com/@gloscode
-[Instagram]: https://instagram.com/glos_code/
 [Youtube]: https://youtube.com/gloscode
 [Javascript]: https://en.wikipedia.org/wiki/JavaScript
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
