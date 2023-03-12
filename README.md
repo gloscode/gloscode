@@ -15,7 +15,6 @@
 &nbsp;
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="40" alt="replit">][Replit] &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="40" alt="twitter">][@gloscode] &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40" alt="youtube">][Youtube]
 
 &nbsp;
@@ -32,7 +31,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" alt="cpp">][C++] &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" alt="react">][React]
 
-[@gloscode]: https://twitter.com/glos_code
 [Visual Studio Code]: https://vscode.dev
 [Replit]: https://replit.com/@gloscode
 [Youtube]: https://youtube.com/gloscode
