@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Glos Code][@gloscode]
+# 👋 Hi, I’m [Glos Code](@gloscode)
 
 &nbsp;
 
