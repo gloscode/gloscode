@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C++
 - 💻 My Favourite IDE is [Visual Studio Code]
 - 👍 [Replit] is my Social Media
-- 🏸 My hobbies are playing Badminton, Chess and Cricket
+- ⚽ My hobbies are playing Football, Badminton, Chess and Cricket
 
 &nbsp;
 
